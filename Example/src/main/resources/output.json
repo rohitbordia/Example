@@ -1,0 +1,281 @@
+[ {
+  "date" : "2016-01",
+  "outTransaction" : {
+    "income" : 2.24289E7,
+    "spent" : -2.70906E7,
+    "average" : {
+      "spent" : -873890.3225806452,
+      "income" : 1.121445E7
+    }
+  }
+}, {
+  "date" : "2015-11",
+  "outTransaction" : {
+    "income" : 3.97778E7,
+    "spent" : -3.10848E7,
+    "average" : {
+      "spent" : -914258.8235294118,
+      "income" : 1.3259266666666666E7
+    }
+  }
+}, {
+  "date" : "2015-10",
+  "outTransaction" : {
+    "income" : 1.71743E7,
+    "spent" : -3.243E7,
+    "average" : {
+      "spent" : -953823.5294117647,
+      "income" : 1.71743E7
+    }
+  }
+}, {
+  "date" : "2016-05",
+  "outTransaction" : {
+    "income" : 3.99118E7,
+    "spent" : -3.47926E7,
+    "average" : {
+      "spent" : -1054321.2121212122,
+      "income" : 1.3303933333333334E7
+    }
+  }
+}, {
+  "date" : "2016-04",
+  "outTransaction" : {
+    "income" : 3.9174E7,
+    "spent" : -3.90439E7,
+    "average" : {
+      "spent" : -1183148.4848484849,
+      "income" : 1.3058E7
+    }
+  }
+}, {
+  "date" : "2016-03",
+  "outTransaction" : {
+    "income" : 3.38661E7,
+    "spent" : -4.16828E7,
+    "average" : {
+      "spent" : -1225964.705882353,
+      "income" : 1.693305E7
+    }
+  }
+}, {
+  "date" : "2016-02",
+  "outTransaction" : {
+    "income" : 3.45138E7,
+    "spent" : -3.06017E7,
+    "average" : {
+      "spent" : -956303.125,
+      "income" : 1.72569E7
+    }
+  }
+}, {
+  "date" : "2015-12",
+  "outTransaction" : {
+    "income" : 1.72557E7,
+    "spent" : -3.15859E7,
+    "average" : {
+      "spent" : -957148.4848484849,
+      "income" : 1.72557E7
+    }
+  }
+}, {
+  "date" : "2016-09",
+  "outTransaction" : {
+    "income" : 2.22963E7,
+    "spent" : -3.61791E7,
+    "average" : {
+      "spent" : -1573004.347826087,
+      "income" : 1.114815E7
+    }
+  }
+}, {
+  "date" : "2016-08",
+  "outTransaction" : {
+    "income" : 3.92233E7,
+    "spent" : -2.98739E7,
+    "average" : {
+      "spent" : -905269.696969697,
+      "income" : 1.3074433333333334E7
+    }
+  }
+}, {
+  "date" : "2016-07",
+  "outTransaction" : {
+    "income" : 3.92823E7,
+    "spent" : -3.17493E7,
+    "average" : {
+      "spent" : -1511871.4285714286,
+      "income" : 1.30941E7
+    }
+  }
+}, {
+  "date" : "2016-06",
+  "outTransaction" : {
+    "income" : 3.92778E7,
+    "spent" : -3.19425E7,
+    "average" : {
+      "spent" : -1330937.5,
+      "income" : 1.30926E7
+    }
+  }
+}, {
+  "date" : "2016-12",
+  "outTransaction" : {
+    "income" : 3.96625E7,
+    "spent" : -3.05298E7,
+    "average" : {
+      "spent" : -1606831.5789473683,
+      "income" : 1.3220833333333334E7
+    }
+  }
+}, {
+  "date" : "2014-10",
+  "outTransaction" : {
+    "income" : 3.42979E7,
+    "spent" : -1.47821E7,
+    "average" : {
+      "spent" : -434767.64705882355,
+      "income" : 1.714895E7
+    }
+  }
+}, {
+  "date" : "2016-11",
+  "outTransaction" : {
+    "income" : 3.44183E7,
+    "spent" : -4.75517E7,
+    "average" : {
+      "spent" : -1828911.5384615385,
+      "income" : 1.720915E7
+    }
+  }
+}, {
+  "date" : "2016-10",
+  "outTransaction" : {
+    "income" : 2.20991E7,
+    "spent" : -3.19646E7,
+    "average" : {
+      "spent" : -1183874.0740740742,
+      "income" : 1.104955E7
+    }
+  }
+}, {
+  "date" : "2015-04",
+  "outTransaction" : {
+    "income" : 3.94368E7,
+    "spent" : -2.91465E7,
+    "average" : {
+      "spent" : -1079500.0,
+      "income" : 1.31456E7
+    }
+  }
+}, {
+  "date" : "2015-03",
+  "outTransaction" : {
+    "income" : 3.94273E7,
+    "spent" : -3.3544E7,
+    "average" : {
+      "spent" : -745422.2222222222,
+      "income" : 1.3142433333333334E7
+    }
+  }
+}, {
+  "date" : "2017-01",
+  "outTransaction" : {
+    "income" : 0.0,
+    "spent" : -1.88713E7,
+    "average" : {
+      "spent" : -6290433.333333333,
+      "income" : 0.0
+    }
+  }
+}, {
+  "date" : "2015-02",
+  "outTransaction" : {
+    "income" : 3.93664E7,
+    "spent" : -4.12178E7,
+    "average" : {
+      "spent" : -858704.1666666666,
+      "income" : 1.3122133333333334E7
+    }
+  }
+}, {
+  "date" : "2014-12",
+  "outTransaction" : {
+    "income" : 3.95432E7,
+    "spent" : -4.6204E7,
+    "average" : {
+      "spent" : -1004434.7826086957,
+      "income" : 1.3181066666666666E7
+    }
+  }
+}, {
+  "date" : "2015-01",
+  "outTransaction" : {
+    "income" : 3.92598E7,
+    "spent" : -3.71585E7,
+    "average" : {
+      "spent" : -884726.1904761905,
+      "income" : 1.30866E7
+    }
+  }
+}, {
+  "date" : "2014-11",
+  "outTransaction" : {
+    "income" : 3.94951E7,
+    "spent" : -4.57479E7,
+    "average" : {
+      "spent" : -1203892.105263158,
+      "income" : 1.3165033333333334E7
+    }
+  }
+}, {
+  "date" : "2015-08",
+  "outTransaction" : {
+    "income" : 3.38488E7,
+    "spent" : -2.73677E7,
+    "average" : {
+      "spent" : -977417.8571428572,
+      "income" : 1.69244E7
+    }
+  }
+}, {
+  "date" : "2015-07",
+  "outTransaction" : {
+    "income" : 3.91718E7,
+    "spent" : -3.87368E7,
+    "average" : {
+      "spent" : -1383457.142857143,
+      "income" : 1.3057266666666666E7
+    }
+  }
+}, {
+  "date" : "2015-06",
+  "outTransaction" : {
+    "income" : 3.91823E7,
+    "spent" : -3.6815E7,
+    "average" : {
+      "spent" : -1314821.4285714286,
+      "income" : 1.3060766666666666E7
+    }
+  }
+}, {
+  "date" : "2015-05",
+  "outTransaction" : {
+    "income" : 3.4164E7,
+    "spent" : -2.66005E7,
+    "average" : {
+      "spent" : -1064020.0,
+      "income" : 1.7082E7
+    }
+  }
+}, {
+  "date" : "2015-09",
+  "outTransaction" : {
+    "income" : 3.92272E7,
+    "spent" : -3.00075E7,
+    "average" : {
+      "spent" : -857357.1428571428,
+      "income" : 1.3075733333333334E7
+    }
+  }
+} ]
