@@ -53,7 +53,11 @@ public class ProcessExample {
 
     public static void main(String args[]) {
         ProcessExample process = null;
-        process = new ProcessExample(args[0]);
+        if(null != args[0]){
+        	process = new ProcessExample(args[0]);
+	}else{
+		process = new ProcessExample();
+	}
         process.process();
         
     }
